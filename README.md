@@ -4,6 +4,6 @@
 
 # Навигация по дисциплинам
 - 1 Семестр
-  - Алгоритмы и структуры данных
-  - Введение в ML
-  - Программирование на современном С++
+  - [Алгоритмы и структуры данных](https://github.com/OkDenAl/VK_EDU/tree/main/1%20sem/ADS)
+  - [Введение в ML](https://github.com/OkDenAl/VK_EDU/tree/main/1%20sem/ML%20Intro)
+  - [Программирование на современном С++](https://github.com/OkDenAl/VK_EDU/tree/main/1%20sem/C%2B%2B%20programming)
